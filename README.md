@@ -176,12 +176,14 @@ This project is a collaboration between two final year students at **Guru Nanak 
 - 📍 Blue Team Cybersecurity | Aspiring SOC Analyst
 - 🔗 [GitHub](https://github.com/sid-e-fi)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/13sidd/)
+- 📫 Email: [the84173@gmail.com](mailto:the84173@gmail.com)
 
 
 **Krish Kamboj** — Data Scientist & ML Engineer
 - Built the end-to-end XGBoost fraud detection pipeline
 - 284,807 transactions · 89% fraud recall · SMOTE balancing · Deep EDA
 - 📍 Data Analytics | Python & SQL
+- 🔗 [GitHub](https://github.com/kaykay4424)
 - 🔗 [LinkedIn](https://linkedin.com/in/krish-kamboj-618845224)
 
 ---
