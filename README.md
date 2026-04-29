@@ -175,11 +175,12 @@ This project is a collaboration between two final year students at **Guru Nanak 
 - ARIA AI analyst integration, deployment, and security architecture
 - 📍 Blue Team Cybersecurity | Aspiring SOC Analyst
 - 🔗 [GitHub](https://github.com/sid-e-fi)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/13sidd/)
+
 
 **Krish Kamboj** — Data Scientist & ML Engineer
 - Built the end-to-end XGBoost fraud detection pipeline
 - 284,807 transactions · 89% fraud recall · SMOTE balancing · Deep EDA
-- Also built a separate [Fraud Intelligence Terminal](https://linkedin.com/in/krish-kamboj-618845224) for business Q&A
 - 📍 Data Analytics | Python & SQL
 - 🔗 [LinkedIn](https://linkedin.com/in/krish-kamboj-618845224)
 
